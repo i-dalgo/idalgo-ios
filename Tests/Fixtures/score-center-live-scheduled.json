@@ -1,0 +1,159 @@
+{
+  "data": {
+    "contests": [
+      {
+        "type": "head-to-head",
+        "id": "54436503",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54436603",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54438903",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54439003",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54440103",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54440203",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54441303",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      },
+      {
+        "type": "head-to-head",
+        "id": "54441403",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "startsAt": "2026-11-17T20:45:00.000Z",
+        "status": "scheduled",
+        "statusLabel": "A venir",
+        "home": {
+          "score": null
+        },
+        "away": {
+          "score": null
+        }
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:32:42.194Z",
+    "version": "v1",
+    "lang": "fr",
+    "pollAfter": 60
+  },
+  "links": {
+    "self": "/modules/score-center/v1/live?date=2026-11-17&sport=102"
+  }
+}

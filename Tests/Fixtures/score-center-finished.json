@@ -1,0 +1,2301 @@
+{
+  "data": {
+    "date": "2026-11-08",
+    "timeZone": "Europe/Paris",
+    "previousDate": "2026-11-07",
+    "nextDate": "2026-11-12",
+    "competitions": [
+      {
+        "competition": {
+          "id": "103",
+          "name": "Ligue 1",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "374703",
+          "name": "Ligue 1 2026/2027"
+        },
+        "phase": {
+          "id": "613203",
+          "name": "Phase régulière",
+          "format": "league"
+        },
+        "day": {
+          "id": "10662703",
+          "date": "2026-11-07",
+          "number": 10
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "54776403",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "103",
+              "name": "Ligue 1",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374703",
+              "name": "Ligue 1 2026/2027"
+            },
+            "phase": {
+              "id": "613203",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "849303",
+              "name": null
+            },
+            "day": {
+              "id": "10662703",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "14401",
+              "name": "Roazhon Park"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "23603",
+                "name": "Rennes",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_236.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_236.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "26703",
+                "name": "Lille",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_267.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_267.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54775803",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "103",
+              "name": "Ligue 1",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374703",
+              "name": "Ligue 1 2026/2027"
+            },
+            "phase": {
+              "id": "613203",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "849303",
+              "name": null
+            },
+            "day": {
+              "id": "10662703",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T17:15:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "23601",
+              "name": "Raymond-Kopa"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "22003",
+                "name": "Angers",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_220.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_220.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "24503",
+                "name": "Nice",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_245.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_245.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54776003",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "103",
+              "name": "Ligue 1",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374703",
+              "name": "Ligue 1 2026/2027"
+            },
+            "phase": {
+              "id": "613203",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "849303",
+              "name": null
+            },
+            "day": {
+              "id": "10662703",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T17:15:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "19301",
+              "name": "Francis-Le Blé"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "24003",
+                "name": "Brest",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_240.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_240.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "22503",
+                "name": "Lyon",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_225.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_225.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54776103",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "103",
+              "name": "Ligue 1",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374703",
+              "name": "Ligue 1 2026/2027"
+            },
+            "phase": {
+              "id": "613203",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "849303",
+              "name": null
+            },
+            "day": {
+              "id": "10662703",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T17:15:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "68801",
+              "name": "Stade Océane"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "21903",
+                "name": "Le Havre",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_219.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_219.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "21203",
+                "name": "Lorient",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_212.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_212.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54776203",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "103",
+              "name": "Ligue 1",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374703",
+              "name": "Ligue 1 2026/2027"
+            },
+            "phase": {
+              "id": "613203",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "849303",
+              "name": null
+            },
+            "day": {
+              "id": "10662703",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T17:15:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "56101",
+              "name": "Stade Marie-Marvingt"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "24403",
+                "name": "Le Mans",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_244.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_244.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "20803",
+                "name": "Monaco",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_208.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_208.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54776603",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "103",
+              "name": "Ligue 1",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374703",
+              "name": "Ligue 1 2026/2027"
+            },
+            "phase": {
+              "id": "613203",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "849303",
+              "name": null
+            },
+            "day": {
+              "id": "10662703",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T20:45:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "1601",
+              "name": "Bollaert-Delelis"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "22103",
+                "name": "Lens",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_221.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_221.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "26603",
+                "name": "Marseille",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_266.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_266.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          }
+        ]
+      },
+      {
+        "competition": {
+          "id": "503",
+          "name": "Premier League",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "372903",
+          "name": "Premier League 2026/2027"
+        },
+        "phase": {
+          "id": "606503",
+          "name": "Phase régulière",
+          "format": "league"
+        },
+        "day": {
+          "id": "10657003",
+          "date": "2026-11-07",
+          "number": 10
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "54728703",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "503",
+              "name": "Premier League",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372903",
+              "name": "Premier League 2026/2027"
+            },
+            "phase": {
+              "id": "606503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "842303",
+              "name": null
+            },
+            "day": {
+              "id": "10657003",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "109801",
+              "name": "Falmer Stadium"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "266803",
+                "name": "Brighton HAFC",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_2668.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_2668.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "186303",
+                "name": "Brentford",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1863.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1863.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54728803",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "503",
+              "name": "Premier League",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372903",
+              "name": "Premier League 2026/2027"
+            },
+            "phase": {
+              "id": "606503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "842303",
+              "name": null
+            },
+            "day": {
+              "id": "10657003",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "73001",
+              "name": "Selhurst Park"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "72003",
+                "name": "Crystal Palace",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_720.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_720.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "8603",
+                "name": "Liverpool",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_86.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_86.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 3
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54729103",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "503",
+              "name": "Premier League",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372903",
+              "name": "Premier League 2026/2027"
+            },
+            "phase": {
+              "id": "606503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "842303",
+              "name": null
+            },
+            "day": {
+              "id": "10657003",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "32901",
+              "name": "Portman Road"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "55303",
+                "name": "Ipswich Town",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_553.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_553.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "329803",
+                "name": "Bournemouth",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_3298.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_3298.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54729503",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "503",
+              "name": "Premier League",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372903",
+              "name": "Premier League 2026/2027"
+            },
+            "phase": {
+              "id": "606503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "842303",
+              "name": null
+            },
+            "day": {
+              "id": "10657003",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "44401",
+              "name": "Sunderland Stadium of light"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "29003",
+                "name": "Sunderland",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_290.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_290.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "8003",
+                "name": "Chelsea",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_80.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_80.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54729303",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "503",
+              "name": "Premier League",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372903",
+              "name": "Premier League 2026/2027"
+            },
+            "phase": {
+              "id": "606503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "842303",
+              "name": null
+            },
+            "day": {
+              "id": "10657003",
+              "date": "2026-11-07"
+            },
+            "startsAt": "2026-11-08T17:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "30001",
+              "name": "Old Trafford"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "8703",
+                "name": "Manchester United",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_87.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_87.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 4
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "7803",
+                "name": "Aston Villa",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_78.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_78.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 4
+            }
+          }
+        ]
+      },
+      {
+        "competition": {
+          "id": "203",
+          "name": "Liga",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_2.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_2.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "374303",
+          "name": "Liga 2026/2027"
+        },
+        "phase": {
+          "id": "611703",
+          "name": "Phase régulière",
+          "format": "league"
+        },
+        "day": {
+          "id": "10683503",
+          "date": "2026-11-08",
+          "number": 15
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "54947603",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "203",
+              "name": "Liga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_2.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_2.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374303",
+              "name": "Liga 2026/2027"
+            },
+            "phase": {
+              "id": "611703",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "847803",
+              "name": null
+            },
+            "day": {
+              "id": "10683503",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T14:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "72801",
+              "name": "Martínez-Valero"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "180703",
+                "name": "Elche",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1807.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1807.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "13503",
+                "name": "Betis",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_135.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_135.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54948003",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "203",
+              "name": "Liga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_2.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_2.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374303",
+              "name": "Liga 2026/2027"
+            },
+            "phase": {
+              "id": "611703",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "847803",
+              "name": null
+            },
+            "day": {
+              "id": "10683503",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T16:15:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "4301",
+              "name": "Anoeta"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "13803",
+                "name": "Real Sociedad",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_138.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_138.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "37903",
+                "name": "Rayo Vallecano",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_379.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_379.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54947503",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "203",
+              "name": "Liga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_2.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_2.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374303",
+              "name": "Liga 2026/2027"
+            },
+            "phase": {
+              "id": "611703",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "847803",
+              "name": null
+            },
+            "day": {
+              "id": "10683503",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T18:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "8001",
+              "name": "Balaídos"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "12803",
+                "name": "Celta Vigo",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_128.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_128.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "139703",
+                "name": "Levante",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1397.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1397.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54948303",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "203",
+              "name": "Liga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_2.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_2.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374303",
+              "name": "Liga 2026/2027"
+            },
+            "phase": {
+              "id": "611703",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "847803",
+              "name": null
+            },
+            "day": {
+              "id": "10683503",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T18:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "17201",
+              "name": "El Madrigal"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "14403",
+                "name": "Villarreal",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_144.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_144.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "39703",
+                "name": "Getafe",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_397.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_397.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54947403",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "203",
+              "name": "Liga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_2.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_2.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "374303",
+              "name": "Liga 2026/2027"
+            },
+            "phase": {
+              "id": "611703",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "847803",
+              "name": null
+            },
+            "day": {
+              "id": "10683503",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T21:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "112601",
+              "name": "Metropolitano"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "12703",
+                "name": "Atlético Madrid",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_127.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_127.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "13103",
+                "name": "FC Barcelone",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_131.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_131.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          }
+        ]
+      },
+      {
+        "competition": {
+          "id": "303",
+          "name": "Serie A",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_3.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_3.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "377703",
+          "name": "Serie A 2026/2027"
+        },
+        "phase": {
+          "id": "615503",
+          "name": "Phase régulière",
+          "format": "league"
+        },
+        "day": {
+          "id": "10644603",
+          "date": "2026-11-08",
+          "number": 11
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "54631403",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "303",
+              "name": "Serie A",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_3.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_3.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "377703",
+              "name": "Serie A 2026/2027"
+            },
+            "phase": {
+              "id": "615503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "854103",
+              "name": null
+            },
+            "day": {
+              "id": "10644603",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T12:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "35501",
+              "name": "Diego Armando Maradona"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "36203",
+                "name": "Naples",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_362.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_362.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "15203",
+                "name": "Lazio Rome",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_152.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_152.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54631103",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "303",
+              "name": "Serie A",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_3.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_3.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "377703",
+              "name": "Serie A 2026/2027"
+            },
+            "phase": {
+              "id": "615503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "854103",
+              "name": null
+            },
+            "day": {
+              "id": "10644603",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "26801",
+              "name": "Luigi Ferraris"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "36503",
+                "name": "Genoa",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_365.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_365.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "15303",
+                "name": "AC Milan",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_153.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_153.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54631303",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "303",
+              "name": "Serie A",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_3.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_3.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "377703",
+              "name": "Serie A 2026/2027"
+            },
+            "phase": {
+              "id": "615503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "854103",
+              "name": null
+            },
+            "day": {
+              "id": "10644603",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T15:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "149901",
+              "name": "Stadio Brianteo"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "48603",
+                "name": "Monza",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_486.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_486.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "113803",
+                "name": "Atalanta Bergame",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1138.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1138.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54631203",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "303",
+              "name": "Serie A",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_3.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_3.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "377703",
+              "name": "Serie A 2026/2027"
+            },
+            "phase": {
+              "id": "615503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "854103",
+              "name": null
+            },
+            "day": {
+              "id": "10644603",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T18:00:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "21001",
+              "name": "Giuseppe Meazza"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "15003",
+                "name": "Inter Milan",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_150.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_150.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "447103",
+                "name": "Como",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_4471.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_4471.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54631003",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "303",
+              "name": "Serie A",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_3.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_3.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "377703",
+              "name": "Serie A 2026/2027"
+            },
+            "phase": {
+              "id": "615503",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "854103",
+              "name": null
+            },
+            "day": {
+              "id": "10644603",
+              "date": "2026-11-08"
+            },
+            "startsAt": "2026-11-08T20:45:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "5601",
+              "name": "Artemio Franchi"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "14903",
+                "name": "Fiorentina",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_149.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_149.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "15103",
+                "name": "Juventus Turin",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_151.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_151.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          }
+        ]
+      },
+      {
+        "competition": {
+          "id": "403",
+          "name": "Bundesliga",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_4.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_4.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "372303",
+          "name": "Bundesliga 2026/2027"
+        },
+        "phase": {
+          "id": "604303",
+          "name": "Phase régulière",
+          "format": "league"
+        },
+        "day": {
+          "id": "10680003",
+          "date": "2026-11-06",
+          "number": 9
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "55013903",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "403",
+              "name": "Bundesliga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_4.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_4.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372303",
+              "name": "Bundesliga 2026/2027"
+            },
+            "phase": {
+              "id": "604303",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "840103",
+              "name": null
+            },
+            "day": {
+              "id": "10680003",
+              "date": "2026-11-06"
+            },
+            "startsAt": "2026-11-08T15:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "34201",
+              "name": "RheinEnergieStadion"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "74403",
+                "name": "Cologne",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_744.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_744.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "6003",
+                "name": "Bayer Leverkusen",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_60.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_60.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "55014003",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "403",
+              "name": "Bundesliga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_4.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_4.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372303",
+              "name": "Bundesliga 2026/2027"
+            },
+            "phase": {
+              "id": "604303",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "840103",
+              "name": null
+            },
+            "day": {
+              "id": "10680003",
+              "date": "2026-11-06"
+            },
+            "startsAt": "2026-11-08T17:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "16301",
+              "name": "Europa-Park Stadion"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "7103",
+                "name": "SC Fribourg",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_71.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_71.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "97503",
+                "name": "Union Berlin",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_975.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_975.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 0
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "55014203",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "403",
+              "name": "Bundesliga",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_4.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_4.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "372303",
+              "name": "Bundesliga 2026/2027"
+            },
+            "phase": {
+              "id": "604303",
+              "name": "Phase régulière"
+            },
+            "group": {
+              "id": "840103",
+              "name": null
+            },
+            "day": {
+              "id": "10680003",
+              "date": "2026-11-06"
+            },
+            "startsAt": "2026-11-08T19:30:00.000Z",
+            "status": "finished",
+            "statusLabel": "Terminé",
+            "venue": {
+              "id": "50401",
+              "name": "Rhein-Neckar Arena"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "182203",
+                "name": "TSG Hoffenheim",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1822.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1822.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 2
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "7203",
+                "name": "Schalke 04",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_72.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_72.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": 1
+            }
+          }
+        ]
+      }
+    ],
+    "hasMoreContests": false
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:31:59.119Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/modules/score-center/v1?date=2026-11-08&sport=102"
+  }
+}

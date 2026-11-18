@@ -1,0 +1,556 @@
+{
+  "data": {
+    "kind": "win-percentage",
+    "sport": {
+      "id": "302",
+      "code": "basketball",
+      "name": "Basket"
+    },
+    "competition": {
+      "id": "302",
+      "name": "NBA",
+      "logo": null
+    },
+    "season": {
+      "id": "46602",
+      "name": "NBA 2026/2027"
+    },
+    "split": "overall",
+    "columns": [
+      "won",
+      "lost",
+      "winPct",
+      "gamesBehind"
+    ],
+    "groups": [
+      {
+        "id": "6104102",
+        "name": null,
+        "day": {
+          "id": "6940302",
+          "date": "2026-10-20"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1802",
+              "name": "Oklahoma City Thunder",
+              "logo": null
+            },
+            "stats": {
+              "played": 1,
+              "won": 1,
+              "lost": 0,
+              "winPct": 1,
+              "gamesBehind": 0
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1102",
+              "name": "Detroit Pistons",
+              "logo": null
+            },
+            "stats": {
+              "played": 1,
+              "won": 1,
+              "lost": 0,
+              "winPct": 1,
+              "gamesBehind": 0
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "602",
+              "name": "Philadelphia 76ers",
+              "logo": null
+            },
+            "stats": {
+              "played": 1,
+              "won": 1,
+              "lost": 0,
+              "winPct": 1,
+              "gamesBehind": 0
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "702",
+              "name": "Brooklyn Nets",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 5,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "802",
+              "name": "Indiana Pacers",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 6,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "902",
+              "name": "Chicago Bulls",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 7,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1002",
+              "name": "Milwaukee Bucks",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 8,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "102",
+              "name": "Cleveland Cavaliers",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 9,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "202",
+              "name": "Golden States Warriors",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 10,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "302",
+              "name": "Toronto Raptors",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 11,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1902",
+              "name": "Denver Nuggets",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 12,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2002",
+              "name": "Portland Trail Blazers",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 13,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2102",
+              "name": "Minnesota Timberwolves",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 14,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2202",
+              "name": "Los Angeles Clippers",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 15,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2302",
+              "name": "Sacramento Kings",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 16,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2402",
+              "name": "Phoenix Suns",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 17,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2502",
+              "name": "Los Angeles Lakers",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 18,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1202",
+              "name": "Atlanta Hawks",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 19,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1302",
+              "name": "Washington Wizards",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 20,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1402",
+              "name": "Charlotte Hornets",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 21,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1502",
+              "name": "Orlando Magic",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 22,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1602",
+              "name": "Miami Heat",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 23,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "1702",
+              "name": "Utah Jazz",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 24,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2702",
+              "name": "Houston Rockets",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 25,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2802",
+              "name": "Memphis Grizzlies",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 26,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2902",
+              "name": "New Orleans Pelicans",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 27,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "3002",
+              "name": "Dallas Mavericks",
+              "logo": null
+            },
+            "stats": {
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "winPct": 0,
+              "gamesBehind": 0.5
+            }
+          },
+          {
+            "position": 28,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "502",
+              "name": "New York Knicks",
+              "logo": null
+            },
+            "stats": {
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "winPct": 0,
+              "gamesBehind": 1
+            }
+          },
+          {
+            "position": 29,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "402",
+              "name": "Boston Celtics",
+              "logo": null
+            },
+            "stats": {
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "winPct": 0,
+              "gamesBehind": 1
+            }
+          },
+          {
+            "position": 30,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "2602",
+              "name": "San Antonio Spurs",
+              "logo": null
+            },
+            "stats": {
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "winPct": 0,
+              "gamesBehind": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T13:48:09.727Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/v1/standings?season=46602"
+  }
+}

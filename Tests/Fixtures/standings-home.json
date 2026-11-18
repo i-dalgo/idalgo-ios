@@ -1,0 +1,619 @@
+{
+  "data": {
+    "kind": "league-table",
+    "sport": {
+      "id": "102",
+      "code": "football",
+      "name": "Football"
+    },
+    "competition": {
+      "id": "103",
+      "name": "Ligue 1",
+      "logo": {
+        "small": {
+          "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_1.png",
+          "width": 32,
+          "height": 32
+        },
+        "large": {
+          "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_1.png",
+          "width": 100,
+          "height": 100
+        }
+      }
+    },
+    "season": {
+      "id": "374703",
+      "name": "Ligue 1 2026/2027"
+    },
+    "split": "home",
+    "columns": [
+      "points",
+      "played",
+      "won",
+      "drawn",
+      "lost",
+      "scored",
+      "conceded",
+      "difference"
+    ],
+    "groups": [
+      {
+        "id": "849303",
+        "name": null,
+        "day": {
+          "id": "10662703",
+          "date": "2026-11-07"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "22503",
+              "name": "Lyon",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_225.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_225.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 13,
+              "played": 5,
+              "won": 4,
+              "drawn": 1,
+              "lost": 0,
+              "scored": 12,
+              "conceded": 3,
+              "difference": 9
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "23603",
+              "name": "Rennes",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_236.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_236.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 13,
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "scored": 14,
+              "conceded": 7,
+              "difference": 7
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "21703",
+              "name": "Paris FC",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_217.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_217.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 13,
+              "played": 5,
+              "won": 4,
+              "drawn": 1,
+              "lost": 0,
+              "scored": 12,
+              "conceded": 5,
+              "difference": 7
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "24503",
+              "name": "Nice",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_245.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_245.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 5,
+              "won": 3,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 10,
+              "conceded": 5,
+              "difference": 5
+            }
+          },
+          {
+            "position": 5,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "26703",
+              "name": "Lille",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_267.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_267.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 5,
+              "won": 3,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 7,
+              "conceded": 3,
+              "difference": 4
+            }
+          },
+          {
+            "position": 6,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "26603",
+              "name": "Marseille",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_266.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_266.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 9,
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "scored": 13,
+              "conceded": 8,
+              "difference": 5
+            }
+          },
+          {
+            "position": 7,
+            "evolution": 5,
+            "competitor": {
+              "type": "team",
+              "id": "24803",
+              "name": "Paris SG",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_248.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_248.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 9,
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "scored": 7,
+              "conceded": 3,
+              "difference": 4
+            }
+          },
+          {
+            "position": 8,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "22103",
+              "name": "Lens",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_221.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_221.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 9,
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "scored": 10,
+              "conceded": 7,
+              "difference": 3
+            }
+          },
+          {
+            "position": 9,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "20803",
+              "name": "Monaco",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_208.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_208.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 8,
+              "played": 4,
+              "won": 2,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 7,
+              "conceded": 4,
+              "difference": 3
+            }
+          },
+          {
+            "position": 10,
+            "evolution": 4,
+            "competitor": {
+              "type": "team",
+              "id": "24003",
+              "name": "Brest",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_240.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_240.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 10,
+              "conceded": 6,
+              "difference": 4
+            }
+          },
+          {
+            "position": 11,
+            "evolution": -2,
+            "competitor": {
+              "type": "team",
+              "id": "21403",
+              "name": "Strasbourg",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_214.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_214.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "scored": 9,
+              "conceded": 6,
+              "difference": 3
+            }
+          },
+          {
+            "position": 12,
+            "evolution": 3,
+            "competitor": {
+              "type": "team",
+              "id": "22603",
+              "name": "Toulouse",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_226.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_226.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 6,
+              "conceded": 6,
+              "difference": 0
+            }
+          },
+          {
+            "position": 13,
+            "evolution": -2,
+            "competitor": {
+              "type": "team",
+              "id": "21203",
+              "name": "Lorient",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_212.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_212.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 5,
+              "conceded": 6,
+              "difference": -1
+            }
+          },
+          {
+            "position": 14,
+            "evolution": -4,
+            "competitor": {
+              "type": "team",
+              "id": "25403",
+              "name": "Auxerre",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_254.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_254.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 5,
+              "conceded": 6,
+              "difference": -1
+            }
+          },
+          {
+            "position": 15,
+            "evolution": -2,
+            "competitor": {
+              "type": "team",
+              "id": "24403",
+              "name": "Le Mans",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_244.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_244.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 6,
+              "played": 5,
+              "won": 1,
+              "drawn": 3,
+              "lost": 1,
+              "scored": 7,
+              "conceded": 9,
+              "difference": -2
+            }
+          },
+          {
+            "position": 16,
+            "evolution": 1,
+            "competitor": {
+              "type": "team",
+              "id": "21303",
+              "name": "Troyes",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_213.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_213.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 4,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "scored": 5,
+              "conceded": 11,
+              "difference": -6
+            }
+          },
+          {
+            "position": 17,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "22003",
+              "name": "Angers",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_220.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_220.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 4,
+              "played": 6,
+              "won": 1,
+              "drawn": 1,
+              "lost": 4,
+              "scored": 5,
+              "conceded": 11,
+              "difference": -6
+            }
+          },
+          {
+            "position": 18,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "21903",
+              "name": "Le Havre",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_219.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_219.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 1,
+              "played": 6,
+              "won": 0,
+              "drawn": 1,
+              "lost": 5,
+              "scored": 3,
+              "conceded": 13,
+              "difference": -10
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T13:48:10.109Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/v1/standings?season=374703&split=home"
+  }
+}

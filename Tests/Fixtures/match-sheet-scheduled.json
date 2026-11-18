@@ -1,0 +1,1517 @@
+{
+  "data": {
+    "contest": {
+      "type": "head-to-head",
+      "id": "54436503",
+      "sport": {
+        "id": "102",
+        "code": "football",
+        "name": "Football"
+      },
+      "competition": {
+        "id": "19303",
+        "name": "Ligue des Nations",
+        "logo": {
+          "small": {
+            "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+            "width": 32,
+            "height": 32
+          },
+          "large": {
+            "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+            "width": 100,
+            "height": 100
+          }
+        }
+      },
+      "season": {
+        "id": "369003",
+        "name": "Ligue des Nations 2026/2027"
+      },
+      "phase": {
+        "id": "599903",
+        "name": "Phase de groupe"
+      },
+      "group": {
+        "id": "838003",
+        "name": "Groupe 4"
+      },
+      "day": {
+        "id": "10613303",
+        "date": "2026-11-16"
+      },
+      "startsAt": "2026-11-17T20:45:00.000Z",
+      "status": "scheduled",
+      "statusLabel": "A venir",
+      "venue": null,
+      "home": {
+        "competitor": {
+          "type": "team",
+          "id": "51903",
+          "name": "Danemark",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "score": null
+      },
+      "away": {
+        "competitor": {
+          "type": "team",
+          "id": "53903",
+          "name": "Norvège",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "score": null
+      },
+      "audience": null,
+      "officials": [
+        {
+          "role": "Principal",
+          "person": {
+            "id": "9280101",
+            "name": "Halil Umut Meler",
+            "photo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_92801.jpg",
+                "width": 50,
+                "height": 70
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_92801.jpg",
+                "width": 100,
+                "height": 141
+              }
+            }
+          },
+          "country": {
+            "id": "2901",
+            "name": "Turquie",
+            "code": "TUR",
+            "flag": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Country/16x11/country_29.png",
+                "width": 16,
+                "height": 11
+              },
+              "svg": "https://media.api.idalgo.idalgo-hosting.com/Country/svg/country_29.svg"
+            }
+          }
+        }
+      ],
+      "periods": []
+    },
+    "actions": [],
+    "lineups": [
+      {
+        "competitor": {
+          "type": "team",
+          "id": "51903",
+          "name": "Danemark",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "formation": null,
+        "starters": [],
+        "substitutes": [],
+        "coach": {
+          "id": "15693301",
+          "name": "Brian Riemer",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_156933.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_156933.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        }
+      },
+      {
+        "competitor": {
+          "type": "team",
+          "id": "53903",
+          "name": "Norvège",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "formation": null,
+        "starters": [],
+        "substitutes": [],
+        "coach": {
+          "id": "915601",
+          "name": "Ståle Solbakken",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_9156.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_9156.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        }
+      }
+    ],
+    "standings": {
+      "overall": {
+        "kind": "league-table",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "competition": {
+          "id": "19303",
+          "name": "Ligue des Nations",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "369003",
+          "name": "Ligue des Nations 2026/2027"
+        },
+        "split": "overall",
+        "columns": [
+          "points",
+          "played",
+          "won",
+          "drawn",
+          "lost",
+          "scored",
+          "conceded",
+          "difference"
+        ],
+        "groups": [
+          {
+            "id": "838003",
+            "name": "Groupe 4",
+            "day": {
+              "id": "10613303",
+              "date": "2026-11-16"
+            },
+            "rows": [
+              {
+                "position": 1,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "54203",
+                  "name": "Portugal",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 12,
+                  "played": 5,
+                  "won": 4,
+                  "drawn": 0,
+                  "lost": 1,
+                  "scored": 10,
+                  "conceded": 8,
+                  "difference": 2
+                }
+              },
+              {
+                "position": 2,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "51903",
+                  "name": "Danemark",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 9,
+                  "played": 5,
+                  "won": 3,
+                  "drawn": 0,
+                  "lost": 2,
+                  "scored": 11,
+                  "conceded": 8,
+                  "difference": 3
+                }
+              },
+              {
+                "position": 3,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "53903",
+                  "name": "Norvège",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 6,
+                  "played": 5,
+                  "won": 2,
+                  "drawn": 0,
+                  "lost": 3,
+                  "scored": 9,
+                  "conceded": 9,
+                  "difference": 0
+                }
+              },
+              {
+                "position": 4,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "54003",
+                  "name": "Pays de Galles",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 3,
+                  "played": 5,
+                  "won": 1,
+                  "drawn": 0,
+                  "lost": 4,
+                  "scored": 3,
+                  "conceded": 8,
+                  "difference": -5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "home": {
+        "kind": "league-table",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "competition": {
+          "id": "19303",
+          "name": "Ligue des Nations",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "369003",
+          "name": "Ligue des Nations 2026/2027"
+        },
+        "split": "home",
+        "columns": [
+          "points",
+          "played",
+          "won",
+          "drawn",
+          "lost",
+          "scored",
+          "conceded",
+          "difference"
+        ],
+        "groups": [
+          {
+            "id": "838003",
+            "name": "Groupe 4",
+            "day": {
+              "id": "10613303",
+              "date": "2026-11-16"
+            },
+            "rows": [
+              {
+                "position": 1,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "53903",
+                  "name": "Norvège",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 6,
+                  "played": 3,
+                  "won": 2,
+                  "drawn": 0,
+                  "lost": 1,
+                  "scored": 7,
+                  "conceded": 5,
+                  "difference": 2
+                }
+              },
+              {
+                "position": 2,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "54203",
+                  "name": "Portugal",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 6,
+                  "played": 3,
+                  "won": 2,
+                  "drawn": 0,
+                  "lost": 1,
+                  "scored": 4,
+                  "conceded": 5,
+                  "difference": -1
+                }
+              },
+              {
+                "position": 3,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "51903",
+                  "name": "Danemark",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 3,
+                  "played": 2,
+                  "won": 1,
+                  "drawn": 0,
+                  "lost": 1,
+                  "scored": 4,
+                  "conceded": 4,
+                  "difference": 0
+                }
+              },
+              {
+                "position": 4,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "54003",
+                  "name": "Pays de Galles",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 3,
+                  "played": 2,
+                  "won": 1,
+                  "drawn": 0,
+                  "lost": 1,
+                  "scored": 2,
+                  "conceded": 2,
+                  "difference": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "away": {
+        "kind": "league-table",
+        "sport": {
+          "id": "102",
+          "code": "football",
+          "name": "Football"
+        },
+        "competition": {
+          "id": "19303",
+          "name": "Ligue des Nations",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "369003",
+          "name": "Ligue des Nations 2026/2027"
+        },
+        "split": "away",
+        "columns": [
+          "points",
+          "played",
+          "won",
+          "drawn",
+          "lost",
+          "scored",
+          "conceded",
+          "difference"
+        ],
+        "groups": [
+          {
+            "id": "838003",
+            "name": "Groupe 4",
+            "day": {
+              "id": "10613303",
+              "date": "2026-11-16"
+            },
+            "rows": [
+              {
+                "position": 1,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "51903",
+                  "name": "Danemark",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 6,
+                  "played": 3,
+                  "won": 2,
+                  "drawn": 0,
+                  "lost": 1,
+                  "scored": 7,
+                  "conceded": 4,
+                  "difference": 3
+                }
+              },
+              {
+                "position": 2,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "54203",
+                  "name": "Portugal",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 6,
+                  "played": 2,
+                  "won": 2,
+                  "drawn": 0,
+                  "lost": 0,
+                  "scored": 6,
+                  "conceded": 3,
+                  "difference": 3
+                }
+              },
+              {
+                "position": 3,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "53903",
+                  "name": "Norvège",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 0,
+                  "played": 2,
+                  "won": 0,
+                  "drawn": 0,
+                  "lost": 2,
+                  "scored": 2,
+                  "conceded": 4,
+                  "difference": -2
+                }
+              },
+              {
+                "position": 4,
+                "evolution": 0,
+                "competitor": {
+                  "type": "team",
+                  "id": "54003",
+                  "name": "Pays de Galles",
+                  "logo": {
+                    "small": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                      "width": 32,
+                      "height": 32
+                    },
+                    "large": {
+                      "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                      "width": 100,
+                      "height": 100
+                    }
+                  }
+                },
+                "stats": {
+                  "points": 0,
+                  "played": 3,
+                  "won": 0,
+                  "drawn": 0,
+                  "lost": 3,
+                  "scored": 1,
+                  "conceded": 6,
+                  "difference": -5
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "form": {
+      "home": [
+        {
+          "contest": {
+            "id": "54436803",
+            "startsAt": "2026-11-14T20:45:00.000Z"
+          },
+          "side": "away",
+          "opponent": {
+            "type": "team",
+            "id": "54203",
+            "name": "Portugal",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 4,
+            "conceded": 1
+          },
+          "result": "win"
+        },
+        {
+          "contest": {
+            "id": "54437003",
+            "startsAt": "2026-10-04T20:45:00.000Z"
+          },
+          "side": "away",
+          "opponent": {
+            "type": "team",
+            "id": "54003",
+            "name": "Pays de Galles",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 1,
+            "conceded": 0
+          },
+          "result": "win"
+        },
+        {
+          "contest": {
+            "id": "54437203",
+            "startsAt": "2026-10-01T20:45:00.000Z"
+          },
+          "side": "home",
+          "opponent": {
+            "type": "team",
+            "id": "54203",
+            "name": "Portugal",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 2,
+            "conceded": 4
+          },
+          "result": "loss"
+        },
+        {
+          "contest": {
+            "id": "54437303",
+            "startsAt": "2026-09-27T18:00:00.000Z"
+          },
+          "side": "home",
+          "opponent": {
+            "type": "team",
+            "id": "54003",
+            "name": "Pays de Galles",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 2,
+            "conceded": 0
+          },
+          "result": "win"
+        },
+        {
+          "contest": {
+            "id": "54437603",
+            "startsAt": "2026-09-24T20:45:00.000Z"
+          },
+          "side": "away",
+          "opponent": {
+            "type": "team",
+            "id": "53903",
+            "name": "Norvège",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 2,
+            "conceded": 3
+          },
+          "result": "loss"
+        }
+      ],
+      "away": [
+        {
+          "contest": {
+            "id": "54436703",
+            "startsAt": "2026-11-14T18:00:00.000Z"
+          },
+          "side": "home",
+          "opponent": {
+            "type": "team",
+            "id": "54003",
+            "name": "Pays de Galles",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 3,
+            "conceded": 1
+          },
+          "result": "win"
+        },
+        {
+          "contest": {
+            "id": "54436903",
+            "startsAt": "2026-10-04T20:45:00.000Z"
+          },
+          "side": "away",
+          "opponent": {
+            "type": "team",
+            "id": "54203",
+            "name": "Portugal",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 1,
+            "conceded": 2
+          },
+          "result": "loss"
+        },
+        {
+          "contest": {
+            "id": "54437103",
+            "startsAt": "2026-10-01T20:45:00.000Z"
+          },
+          "side": "away",
+          "opponent": {
+            "type": "team",
+            "id": "54003",
+            "name": "Pays de Galles",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 1,
+            "conceded": 2
+          },
+          "result": "loss"
+        },
+        {
+          "contest": {
+            "id": "54437403",
+            "startsAt": "2026-09-27T20:45:00.000Z"
+          },
+          "side": "home",
+          "opponent": {
+            "type": "team",
+            "id": "54203",
+            "name": "Portugal",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 1,
+            "conceded": 2
+          },
+          "result": "loss"
+        },
+        {
+          "contest": {
+            "id": "54437603",
+            "startsAt": "2026-09-24T20:45:00.000Z"
+          },
+          "side": "home",
+          "opponent": {
+            "type": "team",
+            "id": "51903",
+            "name": "Danemark",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "score": {
+            "scored": 3,
+            "conceded": 2
+          },
+          "result": "win"
+        }
+      ]
+    },
+    "keyPlayers": null,
+    "headToHead": {
+      "sides": [
+        {
+          "team": {
+            "type": "team",
+            "id": "51903",
+            "name": "Danemark",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "wins": 3,
+          "scored": 10
+        },
+        {
+          "team": {
+            "type": "team",
+            "id": "53903",
+            "name": "Norvège",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "wins": 1,
+          "scored": 6
+        }
+      ],
+      "contestCount": 5,
+      "draws": 1,
+      "averageScored": 3.2,
+      "scorelessCount": 0,
+      "mostFrequentScore": [
+        3,
+        2
+      ],
+      "last": [
+        {
+          "type": "head-to-head",
+          "id": "54437603",
+          "sport": {
+            "id": "102",
+            "code": "football",
+            "name": "Football"
+          },
+          "competition": {
+            "id": "19303",
+            "name": "Ligue des Nations",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "season": {
+            "id": "369003",
+            "name": "Ligue des Nations 2026/2027"
+          },
+          "phase": {
+            "id": "599903",
+            "name": "Phase de groupe"
+          },
+          "group": {
+            "id": "838003",
+            "name": "Groupe 4"
+          },
+          "day": {
+            "id": "10613803",
+            "date": "2026-09-25"
+          },
+          "startsAt": "2026-09-24T20:45:00.000Z",
+          "status": "finished",
+          "statusLabel": "Terminé",
+          "venue": null,
+          "home": {
+            "competitor": {
+              "type": "team",
+              "id": "53903",
+              "name": "Norvège",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 3
+          },
+          "away": {
+            "competitor": {
+              "type": "team",
+              "id": "51903",
+              "name": "Danemark",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 2
+          }
+        },
+        {
+          "type": "head-to-head",
+          "id": "51410403",
+          "sport": {
+            "id": "102",
+            "code": "football",
+            "name": "Football"
+          },
+          "competition": {
+            "id": "4303",
+            "name": "Amicaux Internationaux",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_43.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_43.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "season": {
+            "id": "340203",
+            "name": "Amicaux Internationaux 2023/2024"
+          },
+          "phase": {
+            "id": "527703",
+            "name": "Phase régulière"
+          },
+          "group": {
+            "id": "718803",
+            "name": null
+          },
+          "day": {
+            "id": "10191003",
+            "date": "2024-06-07"
+          },
+          "startsAt": "2024-06-08T19:30:00.000Z",
+          "status": "finished",
+          "statusLabel": "Terminé",
+          "venue": null,
+          "home": {
+            "competitor": {
+              "type": "team",
+              "id": "51903",
+              "name": "Danemark",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 3
+          },
+          "away": {
+            "competitor": {
+              "type": "team",
+              "id": "53903",
+              "name": "Norvège",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 1
+          }
+        },
+        {
+          "type": "head-to-head",
+          "id": "23553103",
+          "sport": {
+            "id": "102",
+            "code": "football",
+            "name": "Football"
+          },
+          "competition": {
+            "id": "4303",
+            "name": "Amicaux Internationaux",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_43.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_43.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "season": {
+            "id": "174703",
+            "name": "Amicaux Internationaux 2013/2014"
+          },
+          "phase": {
+            "id": "205903",
+            "name": "Phase régulière"
+          },
+          "group": {
+            "id": "266003",
+            "name": null
+          },
+          "day": {
+            "id": "6232703",
+            "date": "2013-11-15"
+          },
+          "startsAt": "2013-11-15T19:00:00.000Z",
+          "status": "finished",
+          "statusLabel": "Terminé",
+          "venue": null,
+          "home": {
+            "competitor": {
+              "type": "team",
+              "id": "51903",
+              "name": "Danemark",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 2
+          },
+          "away": {
+            "competitor": {
+              "type": "team",
+              "id": "53903",
+              "name": "Norvège",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 1
+          }
+        },
+        {
+          "type": "head-to-head",
+          "id": "12803503",
+          "sport": {
+            "id": "102",
+            "code": "football",
+            "name": "Football"
+          },
+          "competition": {
+            "id": "19503",
+            "name": "Eliminatoires Euro",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_195.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_195.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "season": {
+            "id": "348203",
+            "name": "Eliminatoires Euro 2011/2012"
+          },
+          "phase": {
+            "id": "141203",
+            "name": "Phase de groupe"
+          },
+          "group": {
+            "id": "182403",
+            "name": "Groupe H"
+          },
+          "day": {
+            "id": "4880203",
+            "date": "2011-09-06"
+          },
+          "startsAt": "2011-09-06T20:15:00.000Z",
+          "status": "finished",
+          "statusLabel": "Terminé",
+          "venue": null,
+          "home": {
+            "competitor": {
+              "type": "team",
+              "id": "51903",
+              "name": "Danemark",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 2
+          },
+          "away": {
+            "competitor": {
+              "type": "team",
+              "id": "53903",
+              "name": "Norvège",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 0
+          }
+        },
+        {
+          "type": "head-to-head",
+          "id": "12803203",
+          "sport": {
+            "id": "102",
+            "code": "football",
+            "name": "Football"
+          },
+          "competition": {
+            "id": "19503",
+            "name": "Eliminatoires Euro",
+            "logo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_195.png",
+                "width": 32,
+                "height": 32
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_195.png",
+                "width": 100,
+                "height": 100
+              }
+            }
+          },
+          "season": {
+            "id": "348203",
+            "name": "Eliminatoires Euro 2011/2012"
+          },
+          "phase": {
+            "id": "141203",
+            "name": "Phase de groupe"
+          },
+          "group": {
+            "id": "182403",
+            "name": "Groupe H"
+          },
+          "day": {
+            "id": "4879703",
+            "date": "2011-03-25"
+          },
+          "startsAt": "2011-03-26T20:00:00.000Z",
+          "status": "finished",
+          "statusLabel": "Terminé",
+          "venue": null,
+          "home": {
+            "competitor": {
+              "type": "team",
+              "id": "53903",
+              "name": "Norvège",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 1
+          },
+          "away": {
+            "competitor": {
+              "type": "team",
+              "id": "51903",
+              "name": "Danemark",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "score": 1
+          }
+        }
+      ]
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:35:15.076Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/modules/match-sheet/v1?contest=54436503"
+  }
+}

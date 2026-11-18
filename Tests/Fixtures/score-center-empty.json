@@ -1,0 +1,18 @@
+{
+  "data": {
+    "date": "2026-11-18",
+    "timeZone": "Europe/Paris",
+    "previousDate": "2026-11-08",
+    "nextDate": "2026-11-20",
+    "competitions": [],
+    "hasMoreContests": false
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:31:53.094Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/modules/score-center/v1?competitions=103&date=2026-11-18&sport=102"
+  }
+}

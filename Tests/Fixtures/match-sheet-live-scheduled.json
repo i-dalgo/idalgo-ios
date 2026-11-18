@@ -1,0 +1,213 @@
+{
+  "data": {
+    "contest": {
+      "type": "head-to-head",
+      "id": "54436503",
+      "sport": {
+        "id": "102",
+        "code": "football",
+        "name": "Football"
+      },
+      "competition": {
+        "id": "19303",
+        "name": "Ligue des Nations",
+        "logo": {
+          "small": {
+            "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+            "width": 32,
+            "height": 32
+          },
+          "large": {
+            "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+            "width": 100,
+            "height": 100
+          }
+        }
+      },
+      "season": {
+        "id": "369003",
+        "name": "Ligue des Nations 2026/2027"
+      },
+      "phase": {
+        "id": "599903",
+        "name": "Phase de groupe"
+      },
+      "group": {
+        "id": "838003",
+        "name": "Groupe 4"
+      },
+      "day": {
+        "id": "10613303",
+        "date": "2026-11-16"
+      },
+      "startsAt": "2026-11-17T20:45:00.000Z",
+      "status": "scheduled",
+      "statusLabel": "A venir",
+      "venue": null,
+      "home": {
+        "competitor": {
+          "type": "team",
+          "id": "51903",
+          "name": "Danemark",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "score": null
+      },
+      "away": {
+        "competitor": {
+          "type": "team",
+          "id": "53903",
+          "name": "Norvège",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "score": null
+      },
+      "audience": null,
+      "officials": [
+        {
+          "role": "Principal",
+          "person": {
+            "id": "9280101",
+            "name": "Halil Umut Meler",
+            "photo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_92801.jpg",
+                "width": 50,
+                "height": 70
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_92801.jpg",
+                "width": 100,
+                "height": 141
+              }
+            }
+          },
+          "country": {
+            "id": "2901",
+            "name": "Turquie",
+            "code": "TUR",
+            "flag": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Country/16x11/country_29.png",
+                "width": 16,
+                "height": 11
+              },
+              "svg": "https://media.api.idalgo.idalgo-hosting.com/Country/svg/country_29.svg"
+            }
+          }
+        }
+      ],
+      "periods": []
+    },
+    "actions": [],
+    "lineups": [
+      {
+        "competitor": {
+          "type": "team",
+          "id": "51903",
+          "name": "Danemark",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "formation": null,
+        "starters": [],
+        "substitutes": [],
+        "coach": {
+          "id": "15693301",
+          "name": "Brian Riemer",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_156933.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_156933.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        }
+      },
+      {
+        "competitor": {
+          "type": "team",
+          "id": "53903",
+          "name": "Norvège",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "formation": null,
+        "starters": [],
+        "substitutes": [],
+        "coach": {
+          "id": "915601",
+          "name": "Ståle Solbakken",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_9156.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_9156.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        }
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:35:20.351Z",
+    "version": "v1",
+    "lang": "fr",
+    "pollAfter": 60
+  },
+  "links": {
+    "self": "/modules/match-sheet/v1/live?contest=54436503"
+  }
+}

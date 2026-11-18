@@ -1,0 +1,68 @@
+# Projet Xcode de l'app de démo, généré par XcodeGen (`xcodegen generate` dans ce dossier).
+name: IdalgoDemo
+options:
+  bundleIdPrefix: live.idalgo
+  deploymentTarget:
+    iOS: "16.0"
+  createIntermediateGroups: true
+packages:
+  IdalgoKit:
+    path: ..
+targets:
+  IdalgoDemo:
+    type: application
+    platform: iOS
+    sources:
+      - Sources
+      # Réponses enregistrées servies par le direct simulé (FixtureTransport).
+      - path: ../../fixtures/score-center-scheduled.json
+        buildPhase: resources
+      - path: ../../fixtures/score-center-live-inplay.json
+        buildPhase: resources
+      - path: ../../fixtures/match-sheet-finished.json
+        buildPhase: resources
+      - path: ../../fixtures/match-sheet-live-inplay.json
+        buildPhase: resources
+      - path: ../../fixtures/match-sheet-scheduled.json
+        buildPhase: resources
+      - path: ../../fixtures/match-sheet-live-scheduled.json
+        buildPhase: resources
+    dependencies:
+      - package: IdalgoKit
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: live.idalgo.demo
+        PRODUCT_NAME: IdalgoDemo
+        SWIFT_VERSION: "6.0"
+        MARKETING_VERSION: 0.1.0
+        CURRENT_PROJECT_VERSION: 1
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: iDalgo Démo
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight
+        TARGETED_DEVICE_FAMILY: "1,2"
+        DEVELOPMENT_LANGUAGE: fr
+  IdalgoDemoUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources: [UITests]
+    dependencies:
+      - target: IdalgoDemo
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: live.idalgo.demo.uitests
+        SWIFT_VERSION: "6.0"
+        GENERATE_INFOPLIST_FILE: YES
+        TEST_TARGET_NAME: IdalgoDemo
+schemes:
+  IdalgoDemo:
+    build:
+      targets:
+        IdalgoDemo: all
+        IdalgoDemoUITests: [test]
+    run:
+      config: Debug
+    test:
+      targets:
+        - IdalgoDemoUITests

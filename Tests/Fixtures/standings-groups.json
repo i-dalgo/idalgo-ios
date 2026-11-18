@@ -1,0 +1,1865 @@
+{
+  "data": {
+    "kind": "league-table",
+    "sport": {
+      "id": "102",
+      "code": "football",
+      "name": "Football"
+    },
+    "competition": {
+      "id": "19303",
+      "name": "Ligue des Nations",
+      "logo": {
+        "small": {
+          "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+          "width": 32,
+          "height": 32
+        },
+        "large": {
+          "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+          "width": 100,
+          "height": 100
+        }
+      }
+    },
+    "season": {
+      "id": "369003",
+      "name": "Ligue des Nations 2026/2027"
+    },
+    "split": "overall",
+    "columns": [
+      "points",
+      "played",
+      "won",
+      "drawn",
+      "lost",
+      "scored",
+      "conceded",
+      "difference"
+    ],
+    "groups": [
+      {
+        "id": "837703",
+        "name": "Groupe 1",
+        "day": {
+          "id": "10611503",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 1,
+            "competitor": {
+              "type": "team",
+              "id": "118403",
+              "name": "France",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1184.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1184.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 13,
+              "played": 6,
+              "won": 4,
+              "drawn": 1,
+              "lost": 1,
+              "scored": 10,
+              "conceded": 6,
+              "difference": 4
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 1,
+            "competitor": {
+              "type": "team",
+              "id": "56603",
+              "name": "Belgique",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_566.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_566.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 12,
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "scored": 12,
+              "conceded": 7,
+              "difference": 5
+            }
+          },
+          {
+            "position": 3,
+            "evolution": -2,
+            "competitor": {
+              "type": "team",
+              "id": "53103",
+              "name": "Italie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_531.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_531.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 10,
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 12,
+              "conceded": 10,
+              "difference": 2
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "55003",
+              "name": "Turquie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_550.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_550.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 0,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "scored": 4,
+              "conceded": 15,
+              "difference": -11
+            }
+          }
+        ]
+      },
+      {
+        "id": "838503",
+        "name": "Groupe 1",
+        "day": {
+          "id": "10613903",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54903",
+              "name": "Suisse",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_549.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_549.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 16,
+              "played": 6,
+              "won": 5,
+              "drawn": 1,
+              "lost": 0,
+              "scored": 15,
+              "conceded": 1,
+              "difference": 14
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54703",
+              "name": "Slovénie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_547.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_547.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "scored": 8,
+              "conceded": 3,
+              "difference": 5
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "52003",
+              "name": "Ecosse",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_520.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_520.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "scored": 5,
+              "conceded": 10,
+              "difference": -5
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53603",
+              "name": "Macédoine du Nord",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_536.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_536.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 0,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "scored": 1,
+              "conceded": 15,
+              "difference": -14
+            }
+          }
+        ]
+      },
+      {
+        "id": "839103",
+        "name": "Groupe 1",
+        "day": {
+          "id": "10616303",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "50903",
+              "name": "Albanie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_509.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_509.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 15,
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "scored": 12,
+              "conceded": 3,
+              "difference": 9
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51403",
+              "name": "Bélarus",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_514.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_514.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 10,
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 7,
+              "conceded": 4,
+              "difference": 3
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "52403",
+              "name": "Finlande",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_524.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_524.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 10,
+              "played": 6,
+              "won": 3,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 16,
+              "conceded": 6,
+              "difference": 10
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "145403",
+              "name": "Saint-Marin",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1454.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1454.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 0,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "scored": 3,
+              "conceded": 25,
+              "difference": -22
+            }
+          }
+        ]
+      },
+      {
+        "id": "839503",
+        "name": "Groupe 1",
+        "day": {
+          "id": "10618703",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53703",
+              "name": "Malte",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_537.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_537.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 8,
+              "played": 4,
+              "won": 2,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 5,
+              "conceded": 3,
+              "difference": 2
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "144703",
+              "name": "Andorre",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1447.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1447.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 4,
+              "played": 4,
+              "won": 1,
+              "drawn": 1,
+              "lost": 2,
+              "scored": 3,
+              "conceded": 3,
+              "difference": 0
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "387403",
+              "name": "Gibraltar",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_3874.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_3874.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 3,
+              "played": 4,
+              "won": 0,
+              "drawn": 3,
+              "lost": 1,
+              "scored": 2,
+              "conceded": 4,
+              "difference": -2
+            }
+          }
+        ]
+      },
+      {
+        "id": "837803",
+        "name": "Groupe 2",
+        "day": {
+          "id": "10612103",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 2,
+            "competitor": {
+              "type": "team",
+              "id": "51003",
+              "name": "Allemagne",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_510.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_510.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "scored": 11,
+              "conceded": 3,
+              "difference": 8
+            }
+          },
+          {
+            "position": 2,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "56703",
+              "name": "Pays-Bas",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_567.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_567.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "scored": 14,
+              "conceded": 10,
+              "difference": 4
+            }
+          },
+          {
+            "position": 3,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "52603",
+              "name": "Grèce",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_526.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_526.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 6,
+              "won": 3,
+              "drawn": 2,
+              "lost": 1,
+              "scored": 6,
+              "conceded": 10,
+              "difference": -4
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "118503",
+              "name": "Serbie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1185.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1185.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 0,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "scored": 4,
+              "conceded": 12,
+              "difference": -8
+            }
+          }
+        ]
+      },
+      {
+        "id": "838603",
+        "name": "Groupe 2",
+        "day": {
+          "id": "10614503",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "49203",
+              "name": "Irlande du Nord",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_492.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_492.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 5,
+              "won": 3,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 5,
+              "conceded": 0,
+              "difference": 5
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "52703",
+              "name": "Hongrie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_527.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_527.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 10,
+              "played": 5,
+              "won": 3,
+              "drawn": 1,
+              "lost": 1,
+              "scored": 5,
+              "conceded": 2,
+              "difference": 3
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "118703",
+              "name": "Ukraine",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1187.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1187.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 4,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "scored": 2,
+              "conceded": 6,
+              "difference": -4
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "52503",
+              "name": "Géorgie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_525.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_525.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 2,
+              "played": 5,
+              "won": 0,
+              "drawn": 2,
+              "lost": 3,
+              "scored": 0,
+              "conceded": 4,
+              "difference": -4
+            }
+          }
+        ]
+      },
+      {
+        "id": "839203",
+        "name": "Groupe 2",
+        "day": {
+          "id": "10616903",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "193803",
+              "name": "Monténégro",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1938.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1938.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 16,
+              "played": 6,
+              "won": 5,
+              "drawn": 1,
+              "lost": 0,
+              "scored": 13,
+              "conceded": 6,
+              "difference": 7
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "144903",
+              "name": "Chypre",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1449.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1449.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 8,
+              "played": 6,
+              "won": 2,
+              "drawn": 2,
+              "lost": 2,
+              "scored": 7,
+              "conceded": 8,
+              "difference": -1
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "144803",
+              "name": "Arménie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1448.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1448.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 6,
+              "played": 6,
+              "won": 1,
+              "drawn": 3,
+              "lost": 2,
+              "scored": 5,
+              "conceded": 6,
+              "difference": -1
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53203",
+              "name": "Lettonie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_532.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_532.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 2,
+              "played": 6,
+              "won": 0,
+              "drawn": 2,
+              "lost": 4,
+              "scored": 3,
+              "conceded": 8,
+              "difference": -5
+            }
+          }
+        ]
+      },
+      {
+        "id": "839603",
+        "name": "Groupe 2",
+        "day": {
+          "id": "10619303",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51303",
+              "name": "Azerbaidjan",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_513.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_513.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 8,
+              "played": 4,
+              "won": 2,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 3,
+              "conceded": 1,
+              "difference": 2
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53403",
+              "name": "Lituanie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_534.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_534.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "scored": 5,
+              "conceded": 3,
+              "difference": 2
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53303",
+              "name": "Liechtenstein",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_533.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_533.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 1,
+              "played": 4,
+              "won": 0,
+              "drawn": 1,
+              "lost": 3,
+              "scored": 1,
+              "conceded": 5,
+              "difference": -4
+            }
+          }
+        ]
+      },
+      {
+        "id": "837903",
+        "name": "Groupe 3",
+        "day": {
+          "id": "10612703",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 1,
+            "competitor": {
+              "type": "team",
+              "id": "51103",
+              "name": "Angleterre",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_511.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_511.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 15,
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "scored": 19,
+              "conceded": 6,
+              "difference": 13
+            }
+          },
+          {
+            "position": 2,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "52203",
+              "name": "Espagne",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_522.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_522.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 15,
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "scored": 16,
+              "conceded": 8,
+              "difference": 8
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51803",
+              "name": "Croatie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_518.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_518.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 6,
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "scored": 7,
+              "conceded": 17,
+              "difference": -10
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54303",
+              "name": "R. tchèque",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_543.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_543.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 0,
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "scored": 3,
+              "conceded": 14,
+              "difference": -11
+            }
+          }
+        ]
+      },
+      {
+        "id": "838703",
+        "name": "Groupe 3",
+        "day": {
+          "id": "10615103",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51203",
+              "name": "Autriche",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_512.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_512.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 11,
+              "played": 5,
+              "won": 3,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 10,
+              "conceded": 5,
+              "difference": 5
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "691303",
+              "name": "Kosovo",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_6913.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_6913.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 6,
+              "played": 5,
+              "won": 1,
+              "drawn": 3,
+              "lost": 1,
+              "scored": 3,
+              "conceded": 4,
+              "difference": -1
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "145303",
+              "name": "Eire",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1453.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1453.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 5,
+              "played": 5,
+              "won": 1,
+              "drawn": 2,
+              "lost": 2,
+              "scored": 6,
+              "conceded": 5,
+              "difference": 1
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53003",
+              "name": "Israël",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_530.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_530.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 3,
+              "played": 5,
+              "won": 0,
+              "drawn": 3,
+              "lost": 2,
+              "scored": 2,
+              "conceded": 7,
+              "difference": -5
+            }
+          }
+        ]
+      },
+      {
+        "id": "839303",
+        "name": "Groupe 3",
+        "day": {
+          "id": "10617503",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54603",
+              "name": "Slovaquie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_546.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_546.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 12,
+              "played": 6,
+              "won": 3,
+              "drawn": 3,
+              "lost": 0,
+              "scored": 13,
+              "conceded": 6,
+              "difference": 7
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 1,
+            "competitor": {
+              "type": "team",
+              "id": "52803",
+              "name": "Iles Féroé",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_528.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_528.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 8,
+              "played": 6,
+              "won": 1,
+              "drawn": 5,
+              "lost": 0,
+              "scored": 8,
+              "conceded": 7,
+              "difference": 1
+            }
+          },
+          {
+            "position": 3,
+            "evolution": -1,
+            "competitor": {
+              "type": "team",
+              "id": "53803",
+              "name": "Moldavie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_538.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_538.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 7,
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "scored": 5,
+              "conceded": 10,
+              "difference": -5
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "145103",
+              "name": "Kazakhstan",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1451.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1451.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 3,
+              "played": 6,
+              "won": 0,
+              "drawn": 3,
+              "lost": 3,
+              "scored": 8,
+              "conceded": 11,
+              "difference": -3
+            }
+          }
+        ]
+      },
+      {
+        "id": "838003",
+        "name": "Groupe 4",
+        "day": {
+          "id": "10613303",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54203",
+              "name": "Portugal",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 12,
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "scored": 10,
+              "conceded": 8,
+              "difference": 2
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51903",
+              "name": "Danemark",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 9,
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "scored": 11,
+              "conceded": 8,
+              "difference": 3
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53903",
+              "name": "Norvège",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 6,
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "scored": 9,
+              "conceded": 9,
+              "difference": 0
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54003",
+              "name": "Pays de Galles",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 3,
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "scored": 3,
+              "conceded": 8,
+              "difference": -5
+            }
+          }
+        ]
+      },
+      {
+        "id": "838803",
+        "name": "Groupe 4",
+        "day": {
+          "id": "10615703",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54803",
+              "name": "Suède",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_548.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_548.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 13,
+              "played": 5,
+              "won": 4,
+              "drawn": 1,
+              "lost": 0,
+              "scored": 10,
+              "conceded": 5,
+              "difference": 5
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51503",
+              "name": "Bosnie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_515.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_515.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 8,
+              "played": 5,
+              "won": 2,
+              "drawn": 2,
+              "lost": 1,
+              "scored": 8,
+              "conceded": 6,
+              "difference": 2
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54103",
+              "name": "Pologne",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_541.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_541.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 4,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "scored": 8,
+              "conceded": 6,
+              "difference": 2
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "54403",
+              "name": "Roumanie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_544.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_544.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 3,
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "scored": 5,
+              "conceded": 14,
+              "difference": -9
+            }
+          }
+        ]
+      },
+      {
+        "id": "839003",
+        "name": "Groupe 4",
+        "day": {
+          "id": "10618103",
+          "date": "2026-11-16"
+        },
+        "rows": [
+          {
+            "position": 1,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "50803",
+              "name": "Islande",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_508.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_508.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 14,
+              "played": 6,
+              "won": 4,
+              "drawn": 2,
+              "lost": 0,
+              "scored": 15,
+              "conceded": 1,
+              "difference": 14
+            }
+          },
+          {
+            "position": 2,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "52303",
+              "name": "Estonie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_523.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_523.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 12,
+              "played": 6,
+              "won": 3,
+              "drawn": 3,
+              "lost": 0,
+              "scored": 5,
+              "conceded": 2,
+              "difference": 3
+            }
+          },
+          {
+            "position": 3,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "51603",
+              "name": "Bulgarie",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_516.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_516.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 4,
+              "played": 6,
+              "won": 1,
+              "drawn": 1,
+              "lost": 4,
+              "scored": 4,
+              "conceded": 12,
+              "difference": -8
+            }
+          },
+          {
+            "position": 4,
+            "evolution": 0,
+            "competitor": {
+              "type": "team",
+              "id": "53503",
+              "name": "Luxembourg",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_535.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_535.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "stats": {
+              "points": 3,
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "scored": 2,
+              "conceded": 11,
+              "difference": -9
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T13:48:09.927Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/v1/standings?season=369003"
+  }
+}

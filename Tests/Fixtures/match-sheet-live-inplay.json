@@ -1,0 +1,1440 @@
+{
+  "data": {
+    "contest": {
+      "type": "head-to-head",
+      "id": "54732603",
+      "sport": {
+        "id": "102",
+        "code": "football",
+        "name": "Football"
+      },
+      "competition": {
+        "id": "503",
+        "name": "Premier League",
+        "logo": {
+          "small": {
+            "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_5.png",
+            "width": 32,
+            "height": 32
+          },
+          "large": {
+            "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_5.png",
+            "width": 100,
+            "height": 100
+          }
+        }
+      },
+      "season": {
+        "id": "372903",
+        "name": "Premier League 2026/2027"
+      },
+      "phase": {
+        "id": "606503",
+        "name": "Phase régulière"
+      },
+      "group": {
+        "id": "842303",
+        "name": null
+      },
+      "day": {
+        "id": "10657403",
+        "date": "2026-10-10"
+      },
+      "startsAt": "2026-10-10T13:30:00.000Z",
+      "status": "live",
+      "statusLabel": "67e",
+      "venue": {
+        "id": "17901",
+        "name": "Emirates stadium",
+        "capacity": 60704
+      },
+      "home": {
+        "competitor": {
+          "type": "team",
+          "id": "7703",
+          "name": "Arsenal",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_77.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_77.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "score": 1
+      },
+      "away": {
+        "competitor": {
+          "type": "team",
+          "id": "8403",
+          "name": "Leeds United",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_84.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_84.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "score": 1
+      },
+      "audience": null,
+      "officials": [
+        {
+          "role": "Principal",
+          "person": {
+            "id": "2180801",
+            "name": "Paul Tierney",
+            "photo": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_21808.jpg",
+                "width": 50,
+                "height": 70
+              },
+              "large": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_21808.jpg",
+                "width": 100,
+                "height": 141
+              }
+            }
+          },
+          "country": {
+            "id": "601",
+            "name": "Angleterre",
+            "code": "ENG",
+            "flag": {
+              "small": {
+                "url": "https://media.api.idalgo.idalgo-hosting.com/Country/16x11/country_6.png",
+                "width": 16,
+                "height": 11
+              },
+              "svg": "https://media.api.idalgo.idalgo-hosting.com/Country/svg/country_6.svg"
+            }
+          }
+        }
+      ],
+      "periods": [
+        {
+          "name": "Première mi-temps",
+          "home": 0,
+          "away": 0
+        },
+        {
+          "name": "Deuxième mi-temps",
+          "home": 1,
+          "away": 1
+        }
+      ]
+    },
+    "actions": [
+      {
+        "id": "783669903",
+        "type": "yellow-card",
+        "family": "card",
+        "label": "Carton jaune",
+        "minute": 36,
+        "period": "1ère mi-temps",
+        "side": "away",
+        "person": {
+          "id": "8520201",
+          "name": "Ao Tanaka",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_85202.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_85202.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": null,
+        "occurredAt": null
+      },
+      {
+        "id": "783670103",
+        "type": "yellow-card",
+        "family": "card",
+        "label": "Carton jaune",
+        "minute": 38,
+        "period": "1ère mi-temps",
+        "side": "away",
+        "person": {
+          "id": "8374901",
+          "name": "Ethan Ampadu",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_83749.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_83749.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": null,
+        "occurredAt": null
+      },
+      {
+        "id": "783670603",
+        "type": "goal",
+        "family": "goal",
+        "label": "But",
+        "minute": 56,
+        "period": "2ème mi-temps",
+        "side": "away",
+        "person": {
+          "id": "9748901",
+          "name": "James Justin",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_97489.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_97489.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": null,
+        "occurredAt": null
+      },
+      {
+        "id": "783670803",
+        "type": "yellow-card",
+        "family": "card",
+        "label": "Carton jaune",
+        "minute": 59,
+        "period": "2ème mi-temps",
+        "side": "away",
+        "person": {
+          "id": "16394601",
+          "name": "Tarik Muharemović",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_163946.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_163946.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": null,
+        "occurredAt": null
+      },
+      {
+        "id": "783670903",
+        "type": "goal",
+        "family": "goal",
+        "label": "But",
+        "minute": 62,
+        "period": "2ème mi-temps",
+        "side": "home",
+        "person": {
+          "id": "10694501",
+          "name": "Riccardo Calafiori",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_106945.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_106945.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": null,
+        "occurredAt": null
+      },
+      {
+        "id": "783671103",
+        "type": "substitution",
+        "family": "substitution",
+        "label": "Remplacement",
+        "minute": 63,
+        "period": "2ème mi-temps",
+        "side": "home",
+        "person": {
+          "id": "7785101",
+          "name": "Bruno Guimarães Rodriguez Moura",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_77851.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_77851.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": {
+          "id": "16341701",
+          "name": "Myles Lewis-Skelly",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_163417.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_163417.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "occurredAt": null
+      },
+      {
+        "id": "783671203",
+        "type": "substitution",
+        "family": "substitution",
+        "label": "Remplacement",
+        "minute": 63,
+        "period": "2ème mi-temps",
+        "side": "home",
+        "person": {
+          "id": "9309901",
+          "name": "Viktor Gyökeres",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_93099.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_93099.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": {
+          "id": "7317301",
+          "name": "Kai Havertz",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_73173.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_73173.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "occurredAt": null
+      },
+      {
+        "id": "783671303",
+        "type": "substitution",
+        "family": "substitution",
+        "label": "Remplacement",
+        "minute": 63,
+        "period": "2ème mi-temps",
+        "side": "home",
+        "person": {
+          "id": "11248601",
+          "name": "Jurriën Norman Timber",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_112486.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_112486.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "relatedPerson": {
+          "id": "10362401",
+          "name": "Ben White",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_103624.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_103624.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        },
+        "occurredAt": null
+      }
+    ],
+    "lineups": [
+      {
+        "competitor": {
+          "type": "team",
+          "id": "7703",
+          "name": "Arsenal",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_77.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_77.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "formation": "4-2-3-1",
+        "starters": [
+          {
+            "person": {
+              "id": "6805401",
+              "name": "David Raya",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_68054.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_68054.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 1,
+            "captain": false,
+            "position": {
+              "x": 50,
+              "y": 10
+            },
+            "positionLabel": "Gardien"
+          },
+          {
+            "person": {
+              "id": "10362401",
+              "name": "Ben White",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_103624.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_103624.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 4,
+            "captain": false,
+            "position": {
+              "x": 85,
+              "y": 35
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "7542301",
+              "name": "Gabriel dos Santos Magalhaes",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_75423.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_75423.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 6,
+            "captain": false,
+            "position": {
+              "x": 35,
+              "y": 35
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "9262101",
+              "name": "Bukayo Saka",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_92621.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_92621.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 7,
+            "captain": false,
+            "position": {
+              "x": 85,
+              "y": 72
+            },
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "6048201",
+              "name": "Martin Odegaard",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_60482.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_60482.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 8,
+            "captain": true,
+            "position": {
+              "x": 50,
+              "y": 72
+            },
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "8993701",
+              "name": "Ezri Konsa",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_89937.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_89937.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 15,
+            "captain": false,
+            "position": {
+              "x": 65,
+              "y": 35
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "10988001",
+              "name": "Noni Madueke",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_109880.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_109880.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 20,
+            "captain": false,
+            "position": {
+              "x": 15,
+              "y": 72
+            },
+            "positionLabel": "Attaquant"
+          },
+          {
+            "person": {
+              "id": "7317301",
+              "name": "Kai Havertz",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_73173.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_73173.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 29,
+            "captain": false,
+            "position": {
+              "x": 50,
+              "y": 90
+            },
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "10694501",
+              "name": "Riccardo Calafiori",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_106945.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_106945.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 33,
+            "captain": false,
+            "position": {
+              "x": 15,
+              "y": 35
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "7558601",
+              "name": "Declan Rice",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_75586.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_75586.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 41,
+            "captain": false,
+            "position": {
+              "x": 65,
+              "y": 55
+            },
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "16341701",
+              "name": "Myles Lewis-Skelly",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_163417.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_163417.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 49,
+            "captain": false,
+            "position": {
+              "x": 35,
+              "y": 55
+            },
+            "positionLabel": "Défenseur"
+          }
+        ],
+        "substitutes": [
+          {
+            "person": {
+              "id": "11834401",
+              "name": "Piero Hincapié",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_118344.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_118344.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 5,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "9003201",
+              "name": "Eberechi Oluchi Eze",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_90032.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_90032.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 10,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "11248601",
+              "name": "Jurriën Norman Timber",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_112486.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_112486.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 12,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "4882101",
+              "name": "Kepa Arrizabalaga Revuelta",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_48821.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_48821.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 13,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Gardien"
+          },
+          {
+            "person": {
+              "id": "9309901",
+              "name": "Viktor Gyökeres",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_93099.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_93099.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 14,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Attaquant"
+          },
+          {
+            "person": {
+              "id": "6731801",
+              "name": "Mikel Merino",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_67318.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_67318.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 23,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "9641801",
+              "name": "Martín Zubimendi",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_96418.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_96418.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 36,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "7785101",
+              "name": "Bruno Guimarães Rodriguez Moura",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_77851.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_77851.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 39,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "22788301",
+              "name": "Max Dowman",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_227883.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_227883.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 56,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          }
+        ],
+        "coach": {
+          "id": "1977601",
+          "name": "Mikel Arteta",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_19776.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_19776.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        }
+      },
+      {
+        "competitor": {
+          "type": "team",
+          "id": "8403",
+          "name": "Leeds United",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_84.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_84.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "formation": "3-4-3 Classique",
+        "starters": [
+          {
+            "person": {
+              "id": "11370801",
+              "name": "James Trafford",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_113708.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_113708.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 1,
+            "captain": false,
+            "position": {
+              "x": 50,
+              "y": 10
+            },
+            "positionLabel": "Gardien"
+          },
+          {
+            "person": {
+              "id": "9038801",
+              "name": "Jayden Bogle",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_90388.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_90388.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 2,
+            "captain": false,
+            "position": {
+              "x": 85,
+              "y": 60
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "9856301",
+              "name": "Gabriel Gudmundsson",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_98563.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_98563.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 3,
+            "captain": false,
+            "position": {
+              "x": 15,
+              "y": 60
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "8374901",
+              "name": "Ethan Ampadu",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_83749.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_83749.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 4,
+            "captain": true,
+            "position": {
+              "x": 65,
+              "y": 60
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "16394601",
+              "name": "Tarik Muharemović",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_163946.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_163946.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 5,
+            "captain": false,
+            "position": {
+              "x": 25,
+              "y": 30
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "7483801",
+              "name": "Dominic Calvert-Lewin",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_74838.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_74838.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 9,
+            "captain": false,
+            "position": {
+              "x": 50,
+              "y": 90
+            },
+            "positionLabel": "Attaquant"
+          },
+          {
+            "person": {
+              "id": "11433501",
+              "name": "Anton Stach",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_114335.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_114335.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 18,
+            "captain": false,
+            "position": {
+              "x": 75,
+              "y": 85
+            },
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "9823601",
+              "name": "Noah Okafor",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_98236.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_98236.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 19,
+            "captain": false,
+            "position": {
+              "x": 25,
+              "y": 85
+            },
+            "positionLabel": "Attaquant"
+          },
+          {
+            "person": {
+              "id": "8520201",
+              "name": "Ao Tanaka",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_85202.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_85202.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 22,
+            "captain": false,
+            "position": {
+              "x": 35,
+              "y": 60
+            },
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "9748901",
+              "name": "James Justin",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_97489.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_97489.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 24,
+            "captain": false,
+            "position": {
+              "x": 75,
+              "y": 30
+            },
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "5349601",
+              "name": "Nico Elvedi",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_53496.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_53496.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 30,
+            "captain": false,
+            "position": {
+              "x": 50,
+              "y": 30
+            },
+            "positionLabel": "Défenseur"
+          }
+        ],
+        "substitutes": [
+          {
+            "person": {
+              "id": "9099801",
+              "name": "Sean Longstaff",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_90998.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_90998.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 8,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "5300501",
+              "name": "Harry Wilson",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_53005.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_53005.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 10,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "9443401",
+              "name": "Brenden Aaronson",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_94434.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_94434.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 11,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "8439801",
+              "name": "Lukas Nmecha",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_84398.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_84398.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 14,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Attaquant"
+          },
+          {
+            "person": {
+              "id": "9068101",
+              "name": "Jaka Bijol",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_90681.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_90681.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 15,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "5797601",
+              "name": "Michael Zetterer",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_57976.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_57976.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 16,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Gardien"
+          },
+          {
+            "person": {
+              "id": "15471801",
+              "name": "Jean-Mattéo Bahoya Négoce",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_154718.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_154718.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 23,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          },
+          {
+            "person": {
+              "id": "10867001",
+              "name": "Melvin Bard",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_108670.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_108670.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 26,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Défenseur"
+          },
+          {
+            "person": {
+              "id": "9826201",
+              "name": "Ilia Gruev",
+              "photo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_98262.jpg",
+                  "width": 50,
+                  "height": 70
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_98262.jpg",
+                  "width": 100,
+                  "height": 141
+                }
+              }
+            },
+            "shirt": 44,
+            "captain": false,
+            "position": null,
+            "positionLabel": "Milieu"
+          }
+        ],
+        "coach": {
+          "id": "8389701",
+          "name": "Daniel Farke",
+          "photo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/50x70/person_83897.jpg",
+              "width": 50,
+              "height": 70
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Person/100x141/person_83897.jpg",
+              "width": 100,
+              "height": 141
+            }
+          }
+        }
+      }
+    ]
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:35:14.659Z",
+    "version": "v1",
+    "lang": "fr",
+    "pollAfter": 15
+  },
+  "links": {
+    "self": "/modules/match-sheet/v1?contest=54732603"
+  }
+}

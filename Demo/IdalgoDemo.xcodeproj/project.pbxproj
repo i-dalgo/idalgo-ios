@@ -1,0 +1,537 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		10E11217F171E874CDD65032 /* score-center-scheduled.json in Resources */ = {isa = PBXBuildFile; fileRef = E1FF552964DA1027A6C4C7B4 /* score-center-scheduled.json */; };
+		11787430DEA350DFB3A4C654 /* match-sheet-live-inplay.json in Resources */ = {isa = PBXBuildFile; fileRef = 929367A07D72C38F02A7259E /* match-sheet-live-inplay.json */; };
+		14440C5916838720AC02C406 /* match-sheet-scheduled.json in Resources */ = {isa = PBXBuildFile; fileRef = 69A129D40665E62240FA92C0 /* match-sheet-scheduled.json */; };
+		303720F5193099043F7A0A31 /* ScoreCenterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73C2A0ED5234D8EFDC79618C /* ScoreCenterUITests.swift */; };
+		326663D7A75F3B48DDF020E1 /* DemoCompetition.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AB865EA1FB1BA26BEDA9B9 /* DemoCompetition.swift */; };
+		5DB2D5065228EA6133BB945E /* IdalgoKit in Frameworks */ = {isa = PBXBuildFile; productRef = 9BD428F53D019BDCDFEDA635 /* IdalgoKit */; };
+		5FC55D20B2FB3E9D8D68E421 /* MatchSheetDemoScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14DD25DDF53918268428BF6 /* MatchSheetDemoScreen.swift */; };
+		685E3FE12BAEAD58215E8608 /* ScoreCenterScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4334C4D365304E45369AB6 /* ScoreCenterScreen.swift */; };
+		8CE1F46F9404E55F5CC3D57B /* MatchSheetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E7CB0F68ECF0181A33042AC /* MatchSheetUITests.swift */; };
+		8F36E390D39207E5C759038C /* StandingsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AB07B91C97F4ED3A83F0E2A /* StandingsScreen.swift */; };
+		987593FFA2E28A97A6B58B25 /* DemoHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 588808A4DDDFD70083A93132 /* DemoHomeView.swift */; };
+		98B04895DEF7CF688CF7F1CD /* score-center-live-inplay.json in Resources */ = {isa = PBXBuildFile; fileRef = 4A03093626C68C79E4EC4ED5 /* score-center-live-inplay.json */; };
+		A1A8D799A74327D0CE8086E2 /* UIKitHostScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A80B415DC7E0701AC8011EB /* UIKitHostScreen.swift */; };
+		A8CE062B064A5C4AA5E173D3 /* IdalgoDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38B928E2C3A60F7D615C5179 /* IdalgoDemoApp.swift */; };
+		BCD01600D5CC04B2DA168E8C /* match-sheet-live-scheduled.json in Resources */ = {isa = PBXBuildFile; fileRef = 0EAD98B74D9F6E4A647AC3ED /* match-sheet-live-scheduled.json */; };
+		D004CB7C892086812421EF09 /* FixtureTransport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6741379327D3DE1D40EAF0 /* FixtureTransport.swift */; };
+		DE0903CE0624071A5A330FAB /* BlocksScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE8BD93CC3D9BFCBB364E9C /* BlocksScreen.swift */; };
+		E2E17B446874F7F53A8F57E3 /* match-sheet-finished.json in Resources */ = {isa = PBXBuildFile; fileRef = EA6CA02FAD79FB0780E8043C /* match-sheet-finished.json */; };
+		F2081CEDC10D2C10E148D989 /* BlocksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C996735328B4971856D45555 /* BlocksUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		41B6C0C900857346D27EB1CD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 749DAC2269DE3DFDDC06A29B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2D16F6C18A681B63B57B69FC;
+			remoteInfo = IdalgoDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0EAD98B74D9F6E4A647AC3ED /* match-sheet-live-scheduled.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "match-sheet-live-scheduled.json"; sourceTree = "<group>"; };
+		2F6741379327D3DE1D40EAF0 /* FixtureTransport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixtureTransport.swift; sourceTree = "<group>"; };
+		38B928E2C3A60F7D615C5179 /* IdalgoDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdalgoDemoApp.swift; sourceTree = "<group>"; };
+		4A03093626C68C79E4EC4ED5 /* score-center-live-inplay.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "score-center-live-inplay.json"; sourceTree = "<group>"; };
+		4A80B415DC7E0701AC8011EB /* UIKitHostScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitHostScreen.swift; sourceTree = "<group>"; };
+		54103B7777DC9CFF07456EA5 /* IdalgoDemo.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = IdalgoDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		588808A4DDDFD70083A93132 /* DemoHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoHomeView.swift; sourceTree = "<group>"; };
+		5DE8BD93CC3D9BFCBB364E9C /* BlocksScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlocksScreen.swift; sourceTree = "<group>"; };
+		5E7CB0F68ECF0181A33042AC /* MatchSheetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchSheetUITests.swift; sourceTree = "<group>"; };
+		69A129D40665E62240FA92C0 /* match-sheet-scheduled.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "match-sheet-scheduled.json"; sourceTree = "<group>"; };
+		73C2A0ED5234D8EFDC79618C /* ScoreCenterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreCenterUITests.swift; sourceTree = "<group>"; };
+		7AB07B91C97F4ED3A83F0E2A /* StandingsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandingsScreen.swift; sourceTree = "<group>"; };
+		929367A07D72C38F02A7259E /* match-sheet-live-inplay.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "match-sheet-live-inplay.json"; sourceTree = "<group>"; };
+		AF4334C4D365304E45369AB6 /* ScoreCenterScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreCenterScreen.swift; sourceTree = "<group>"; };
+		B14DD25DDF53918268428BF6 /* MatchSheetDemoScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchSheetDemoScreen.swift; sourceTree = "<group>"; };
+		B5F74DEF080C1E001C78065A /* IdalgoDemoUITests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = IdalgoDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C996735328B4971856D45555 /* BlocksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlocksUITests.swift; sourceTree = "<group>"; };
+		DBB2DB0FB4943A2082869ABD /* ios */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ios; path = ..; sourceTree = SOURCE_ROOT; };
+		E1FF552964DA1027A6C4C7B4 /* score-center-scheduled.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "score-center-scheduled.json"; sourceTree = "<group>"; };
+		EA6CA02FAD79FB0780E8043C /* match-sheet-finished.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "match-sheet-finished.json"; sourceTree = "<group>"; };
+		F6AB865EA1FB1BA26BEDA9B9 /* DemoCompetition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoCompetition.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9D1F7C01D95AE7A21A032885 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5DB2D5065228EA6133BB945E /* IdalgoKit in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		29072C0B34DABD99C6EF8522 /* mobile */ = {
+			isa = PBXGroup;
+			children = (
+				B07EA66A857B24E0BAECB569 /* fixtures */,
+			);
+			name = mobile;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		43D84BBA8BCFB0ADF83191EA /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				5DE8BD93CC3D9BFCBB364E9C /* BlocksScreen.swift */,
+				F6AB865EA1FB1BA26BEDA9B9 /* DemoCompetition.swift */,
+				588808A4DDDFD70083A93132 /* DemoHomeView.swift */,
+				2F6741379327D3DE1D40EAF0 /* FixtureTransport.swift */,
+				38B928E2C3A60F7D615C5179 /* IdalgoDemoApp.swift */,
+				B14DD25DDF53918268428BF6 /* MatchSheetDemoScreen.swift */,
+				AF4334C4D365304E45369AB6 /* ScoreCenterScreen.swift */,
+				7AB07B91C97F4ED3A83F0E2A /* StandingsScreen.swift */,
+				4A80B415DC7E0701AC8011EB /* UIKitHostScreen.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		91CEF4F56449D57A34871A17 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				54103B7777DC9CFF07456EA5 /* IdalgoDemo.app */,
+				B5F74DEF080C1E001C78065A /* IdalgoDemoUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B07EA66A857B24E0BAECB569 /* fixtures */ = {
+			isa = PBXGroup;
+			children = (
+				EA6CA02FAD79FB0780E8043C /* match-sheet-finished.json */,
+				929367A07D72C38F02A7259E /* match-sheet-live-inplay.json */,
+				0EAD98B74D9F6E4A647AC3ED /* match-sheet-live-scheduled.json */,
+				69A129D40665E62240FA92C0 /* match-sheet-scheduled.json */,
+				4A03093626C68C79E4EC4ED5 /* score-center-live-inplay.json */,
+				E1FF552964DA1027A6C4C7B4 /* score-center-scheduled.json */,
+			);
+			path = fixtures;
+			sourceTree = "<group>";
+		};
+		B32E27719C0B1A2510C6F5B6 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				DBB2DB0FB4943A2082869ABD /* ios */,
+			);
+			name = Packages;
+			sourceTree = "<group>";
+		};
+		D356EFF28BDB8C7C1C8B546B /* UITests */ = {
+			isa = PBXGroup;
+			children = (
+				C996735328B4971856D45555 /* BlocksUITests.swift */,
+				5E7CB0F68ECF0181A33042AC /* MatchSheetUITests.swift */,
+				73C2A0ED5234D8EFDC79618C /* ScoreCenterUITests.swift */,
+			);
+			path = UITests;
+			sourceTree = "<group>";
+		};
+		F00993DBAFB87DFF536F71FC = {
+			isa = PBXGroup;
+			children = (
+				29072C0B34DABD99C6EF8522 /* mobile */,
+				B32E27719C0B1A2510C6F5B6 /* Packages */,
+				43D84BBA8BCFB0ADF83191EA /* Sources */,
+				D356EFF28BDB8C7C1C8B546B /* UITests */,
+				91CEF4F56449D57A34871A17 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2D16F6C18A681B63B57B69FC /* IdalgoDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 13E3EBCA5862192C47D2E835 /* Build configuration list for PBXNativeTarget "IdalgoDemo" */;
+			buildPhases = (
+				784D64EFB2C8DA8929B824A3 /* Sources */,
+				B142BF3FCCD8E5E94BE22A25 /* Resources */,
+				9D1F7C01D95AE7A21A032885 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IdalgoDemo;
+			packageProductDependencies = (
+				9BD428F53D019BDCDFEDA635 /* IdalgoKit */,
+			);
+			productName = IdalgoDemo;
+			productReference = 54103B7777DC9CFF07456EA5 /* IdalgoDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9424F68123C29439741A8E14 /* IdalgoDemoUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6D81A1CBFFDF19FF34CE7D99 /* Build configuration list for PBXNativeTarget "IdalgoDemoUITests" */;
+			buildPhases = (
+				F5A5D8DA448D19F39EA6C045 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3294A0A69DDB47D61D171A95 /* PBXTargetDependency */,
+			);
+			name = IdalgoDemoUITests;
+			packageProductDependencies = (
+			);
+			productName = IdalgoDemoUITests;
+			productReference = B5F74DEF080C1E001C78065A /* IdalgoDemoUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		749DAC2269DE3DFDDC06A29B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					9424F68123C29439741A8E14 = {
+						TestTargetID = 2D16F6C18A681B63B57B69FC;
+					};
+				};
+			};
+			buildConfigurationList = 86C18A1ABC9E6A8416B91B34 /* Build configuration list for PBXProject "IdalgoDemo" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = F00993DBAFB87DFF536F71FC;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				C657CAB6F1690FC92A0FF569 /* XCLocalSwiftPackageReference ".." */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 91CEF4F56449D57A34871A17 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2D16F6C18A681B63B57B69FC /* IdalgoDemo */,
+				9424F68123C29439741A8E14 /* IdalgoDemoUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B142BF3FCCD8E5E94BE22A25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2E17B446874F7F53A8F57E3 /* match-sheet-finished.json in Resources */,
+				11787430DEA350DFB3A4C654 /* match-sheet-live-inplay.json in Resources */,
+				BCD01600D5CC04B2DA168E8C /* match-sheet-live-scheduled.json in Resources */,
+				14440C5916838720AC02C406 /* match-sheet-scheduled.json in Resources */,
+				98B04895DEF7CF688CF7F1CD /* score-center-live-inplay.json in Resources */,
+				10E11217F171E874CDD65032 /* score-center-scheduled.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		784D64EFB2C8DA8929B824A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE0903CE0624071A5A330FAB /* BlocksScreen.swift in Sources */,
+				326663D7A75F3B48DDF020E1 /* DemoCompetition.swift in Sources */,
+				987593FFA2E28A97A6B58B25 /* DemoHomeView.swift in Sources */,
+				D004CB7C892086812421EF09 /* FixtureTransport.swift in Sources */,
+				A8CE062B064A5C4AA5E173D3 /* IdalgoDemoApp.swift in Sources */,
+				5FC55D20B2FB3E9D8D68E421 /* MatchSheetDemoScreen.swift in Sources */,
+				685E3FE12BAEAD58215E8608 /* ScoreCenterScreen.swift in Sources */,
+				8F36E390D39207E5C759038C /* StandingsScreen.swift in Sources */,
+				A1A8D799A74327D0CE8086E2 /* UIKitHostScreen.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F5A5D8DA448D19F39EA6C045 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F2081CEDC10D2C10E148D989 /* BlocksUITests.swift in Sources */,
+				8CE1F46F9404E55F5CC3D57B /* MatchSheetUITests.swift in Sources */,
+				303720F5193099043F7A0A31 /* ScoreCenterUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3294A0A69DDB47D61D171A95 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2D16F6C18A681B63B57B69FC /* IdalgoDemo */;
+			targetProxy = 41B6C0C900857346D27EB1CD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		055FBB28BFD5542DEECA20FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		08B540FEEEE42A6DBB18DD50 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_LANGUAGE = fr;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "iDalgo Démo";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = live.idalgo.demo;
+				PRODUCT_NAME = IdalgoDemo;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		50E4A83D0560E10A3CAAE653 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		5313B326BD8638F4BA4D1B4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = live.idalgo.demo.uitests;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = IdalgoDemo;
+			};
+			name = Debug;
+		};
+		59F95C8CCB0D546F2C7F9F75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_LANGUAGE = fr;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "iDalgo Démo";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = live.idalgo.demo;
+				PRODUCT_NAME = IdalgoDemo;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D5D37A8006E1807EADDB8E09 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = live.idalgo.demo.uitests;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = IdalgoDemo;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		13E3EBCA5862192C47D2E835 /* Build configuration list for PBXNativeTarget "IdalgoDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				59F95C8CCB0D546F2C7F9F75 /* Debug */,
+				08B540FEEEE42A6DBB18DD50 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		6D81A1CBFFDF19FF34CE7D99 /* Build configuration list for PBXNativeTarget "IdalgoDemoUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5313B326BD8638F4BA4D1B4F /* Debug */,
+				D5D37A8006E1807EADDB8E09 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		86C18A1ABC9E6A8416B91B34 /* Build configuration list for PBXProject "IdalgoDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50E4A83D0560E10A3CAAE653 /* Debug */,
+				055FBB28BFD5542DEECA20FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		C657CAB6F1690FC92A0FF569 /* XCLocalSwiftPackageReference ".." */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ..;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		9BD428F53D019BDCDFEDA635 /* IdalgoKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = IdalgoKit;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 749DAC2269DE3DFDDC06A29B /* Project object */;
+}

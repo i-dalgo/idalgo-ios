@@ -1,0 +1,25 @@
+SDK mobiles iDalgo — licence propriétaire
+
+Copyright (c) 2026 iDalgo. Tous droits réservés.
+
+Ce logiciel, son code source, sa documentation et ses exemples (ensemble, le « SDK ») sont la
+propriété exclusive d'iDalgo. Le code source est rendu public pour faciliter son intégration ; sa
+publication ne vaut ni cession ni licence libre.
+
+1. Usage autorisé. Le SDK ne peut être utilisé que par un client d'iDalgo titulaire d'un contrat en
+   vigueur, pour intégrer les services iDalgo dans ses propres applications, dans les limites
+   (produits, compétitions, plateformes, durée) de ce contrat. Toute donnée affichée par le SDK
+   reste soumise à ce contrat.
+
+2. Interdictions. Sauf accord écrit d'iDalgo, il est interdit de copier, modifier, adapter,
+   redistribuer, sous-licencier, vendre ou mettre à disposition le SDK, en tout ou partie, en dehors
+   de son intégration dans les applications du client ; de l'utiliser pour accéder aux services
+   iDalgo sans contrat ou au-delà de son contrat ; de contourner les clés, quotas ou restrictions
+   d'accès.
+
+3. Garantie. Le SDK est fourni « en l'état », sans garantie autre que celles prévues au contrat du
+   client.
+
+4. Fin. Le droit d'usage prend fin avec le contrat du client.
+
+Contact : https://doc.idalgo.live/

@@ -1,0 +1,770 @@
+{
+  "data": {
+    "date": "2026-11-17",
+    "timeZone": "Europe/Paris",
+    "previousDate": "2026-11-16",
+    "nextDate": "2026-11-20",
+    "competitions": [
+      {
+        "competition": {
+          "id": "19303",
+          "name": "Ligue des Nations",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "369003",
+          "name": "Ligue des Nations 2026/2027"
+        },
+        "phase": {
+          "id": "599903",
+          "name": "Phase de groupe",
+          "format": "groups"
+        },
+        "day": {
+          "id": "10613303",
+          "date": "2026-11-16",
+          "number": 24
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "54436503",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369003",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "599903",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838003",
+              "name": "Groupe 4"
+            },
+            "day": {
+              "id": "10613303",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "51903",
+                "name": "Danemark",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_519.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_519.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "53903",
+                "name": "Norvège",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_539.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_539.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54436603",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369003",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "599903",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838003",
+              "name": "Groupe 4"
+            },
+            "day": {
+              "id": "10613303",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "54003",
+                "name": "Pays de Galles",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_540.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_540.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "54203",
+                "name": "Portugal",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_542.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_542.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          }
+        ]
+      },
+      {
+        "competition": {
+          "id": "19303",
+          "name": "Ligue des Nations",
+          "logo": {
+            "small": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+              "width": 100,
+              "height": 100
+            }
+          }
+        },
+        "season": {
+          "id": "369103",
+          "name": "Ligue des Nations 2026/2027"
+        },
+        "phase": {
+          "id": "600403",
+          "name": "Phase de groupe",
+          "format": "groups"
+        },
+        "day": {
+          "id": "10614503",
+          "date": "2026-11-16",
+          "number": 22
+        },
+        "contests": [
+          {
+            "type": "head-to-head",
+            "id": "54438903",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369103",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "600403",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838603",
+              "name": "Groupe 2"
+            },
+            "day": {
+              "id": "10614503",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "118703",
+                "name": "Ukraine",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1187.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1187.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "52503",
+                "name": "Géorgie",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_525.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_525.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54439003",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369103",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "600403",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838603",
+              "name": "Groupe 2"
+            },
+            "day": {
+              "id": "10614503",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "52703",
+                "name": "Hongrie",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_527.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_527.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "49203",
+                "name": "Irlande du Nord",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_492.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_492.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54440103",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369103",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "600403",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838703",
+              "name": "Groupe 3"
+            },
+            "day": {
+              "id": "10615103",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "53003",
+                "name": "Israël",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_530.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_530.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "51203",
+                "name": "Autriche",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_512.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_512.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54440203",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369103",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "600403",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838703",
+              "name": "Groupe 3"
+            },
+            "day": {
+              "id": "10615103",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": {
+              "id": "59101",
+              "name": "Aviva Stadium"
+            },
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "145303",
+                "name": "Eire",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_1453.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_1453.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "691303",
+                "name": "Kosovo",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_6913.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_6913.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54441303",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369103",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "600403",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838803",
+              "name": "Groupe 4"
+            },
+            "day": {
+              "id": "10615703",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "51503",
+                "name": "Bosnie",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_515.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_515.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "54403",
+                "name": "Roumanie",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_544.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_544.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          },
+          {
+            "type": "head-to-head",
+            "id": "54441403",
+            "sport": {
+              "id": "102",
+              "code": "football",
+              "name": "Football"
+            },
+            "competition": {
+              "id": "19303",
+              "name": "Ligue des Nations",
+              "logo": {
+                "small": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/32x32/logo_193.png",
+                  "width": 32,
+                  "height": 32
+                },
+                "large": {
+                  "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Competition/Logo/100x100/logo_193.png",
+                  "width": 100,
+                  "height": 100
+                }
+              }
+            },
+            "season": {
+              "id": "369103",
+              "name": "Ligue des Nations 2026/2027"
+            },
+            "phase": {
+              "id": "600403",
+              "name": "Phase de groupe"
+            },
+            "group": {
+              "id": "838803",
+              "name": "Groupe 4"
+            },
+            "day": {
+              "id": "10615703",
+              "date": "2026-11-16"
+            },
+            "startsAt": "2026-11-17T20:45:00.000Z",
+            "status": "scheduled",
+            "statusLabel": "A venir",
+            "venue": null,
+            "home": {
+              "competitor": {
+                "type": "team",
+                "id": "54103",
+                "name": "Pologne",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_541.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_541.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            },
+            "away": {
+              "competitor": {
+                "type": "team",
+                "id": "54803",
+                "name": "Suède",
+                "logo": {
+                  "small": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/32x32/logo_548.png",
+                    "width": 32,
+                    "height": 32
+                  },
+                  "large": {
+                    "url": "https://media.api.idalgo.idalgo-hosting.com/Sport/Football/Team/Logo/100x100/logo_548.png",
+                    "width": 100,
+                    "height": 100
+                  }
+                }
+              },
+              "score": null
+            }
+          }
+        ]
+      }
+    ],
+    "hasMoreContests": false
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T14:32:42.831Z",
+    "version": "v1",
+    "lang": "fr"
+  },
+  "links": {
+    "self": "/modules/score-center/v1?date=2026-11-17&sport=102"
+  }
+}
